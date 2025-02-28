@@ -1,5 +1,5 @@
-import {SiCplusplus, SiJavascript} from "react-icons/si";
-import {FaReact, FaHtml5, FaGitAlt, FaNode,FaPython} from "react-icons/fa";
+import {SiJavascript} from "react-icons/si";
+import {FaReact, FaHtml5,FaNode,FaPython} from "react-icons/fa";
 import {GrMysql} from "react-icons/gr";
 import {DiCss3} from "react-icons/di";
 
